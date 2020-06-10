@@ -1,29 +1,15 @@
 # Awesome Reading Group :books::books:
 
-This repo contains a template for organising reading groups. This reading group is organized as short 30 minute meetings multiple times a week. No one is expected prepare slides and/or read the paper in depth. This makes it agile and highly sustainable. 
+This repo is based on Awesome reading group. The idea is to reading organize short 30 minute meetings multiple times a week. No one is expected prepare slides and/or read the paper in depth. This makes it agile and highly sustainable.
 
 <blockquote> Having daily frequent groups is very stimulating, and creates very different rhythm compared to weekly-biweekly reading group; it allows to cover much bigger volume of information, even if it is not covered in-depth.  If certain  papers are very relevant to your domain of interest you may go more in-depth by yourself or in smaller groups. </blockquote>
 
 Please feel free to give any feedback on current organisation as a new issue to this repository - it can be adapted to our needs.   
 
-## Kudos 
-<img src="https://i.imgur.com/Zy0NvAf.png" height=90><img src="https://i.imgur.com/PStkLIK.png" height=90><img src="https://i.imgur.com/BozhFvv.png" height=90>
-
-Kudos Lucy Park (Papago NAVER) for coming up with the idea of Agile Reading groups, and to Vassilina Nikoulina (NaverLabs Europe).
-
-## Success stories 
-- NaverLabs Europe NLP team (+80 papers / 5 Sprints first 7 months).
-- Egyptian NLP community (10 papers first 3 months). 
-  
-## :watch: Time and Location 
-#### Monday, Tuesday and Thursday xx-xxpm in [physical_location]
-#### Remote participation:
-https://zoom.us/j/xxxxxxxxxxxxxxxx
-
 ###### The time/frequency can be adjusted based on your feedback. The objective is to share and discuss interesting papers together on a regular basis.
 
 ## TLDR;
-   - :heavy_plus_sign: :+1: [Add papers](https://github.com/hadyelsahar/awesome-reading-group/issues/1) and vote on papers you would like to read/discuss
+   - :heavy_plus_sign: :+1: [Add papers](https://github.com/hadyelsahar/kalidoml-reading-group/issues/1) and vote on papers you would like to read/discuss
    - :full_moon_with_face: :new_moon_with_face: Everybody is free to attend or not attend; 
    - :memo: Give the paper a read before as much in details, focus on specific parts  
    - :loudspeaker: At the beginning of the sessions a volunteer does a brief introduction of the paper

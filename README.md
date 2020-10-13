@@ -13,7 +13,7 @@ Please feel free to give any feedback on current organisation as a new issue to 
    - :full_moon_with_face: :new_moon_with_face: Everybody is free to attend or not attend; 
    - :memo: Give the papers a read before as much in details, focus on specific parts or choose a specific paper from that theme
    - :loudspeaker: At the beginning of the sessions a volunteer does a brief introduction of the theme / topic
-   - :speech_balloon: Attendance (usually groups 5-8 participants) can discuss, share impressions, ask questions 
+   - :speech_balloon: Attendance (usually groups 3-8 participants) can discuss, share impressions, ask questions 
    - :hourglass_flowing_sand: Try to keep it under 60 minutes.   
    - :pencil2: take 5 mins to write your reflections on the discussion or add extra thoughts. 
 
@@ -29,14 +29,14 @@ You may only put the title and the link to the paper, or add any comments to hel
 
 A github discussion is started with the selection so that we can better organize who takes which paper and when to schedule the reading group session. Everybody goes through papers, selects the titles they are interested it, try to read through to get an idea of the paper. Then you submit your reading preference in a comment to that discussion. You may add a short comment about 'why it is interesting, worth reading, what it is about' or any reminder for yourself.
 
-**3- Read the selected paper according to one's time/knowledge​**
+**3 - Read the selected paper according to one's time/knowledge​**
 - You don't have to read everything
 - You are not supposed to understand everything
 - The purpose of the multi-view discussions is to save time reading all papers in details as different participants will have focused on different parts of the paper. 
 
-**4- Attend the reading group** 
+**4 - Attend the reading group** 
 - The main value of such reading groups is in the discussion; even if you didn't read the paper in depth - everybody pays attention on different things, which are shared during the discussion. Thus, it allows you to cover each paper more than if you would have read it by yourself.  
 
 
-**5- After the session add your thoughts as a comment on the github discussion**
+**5 - After the session add your thoughts as a comment on the github discussion**
 
